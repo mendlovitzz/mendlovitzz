@@ -3,7 +3,7 @@
 **`FullStack Developer`**
 
 Olá, me chamo Daniel, sou Desenvolvedor de Software. Meu foco é o desenvolvimento de aplicações mobile integrado à sistemas web. Atualmente desenvolvo com Yii2, PHP e Dart(Flutter), mas estou sempre buscando me aprimorar como pessoa e como desenvolvedor, buscando, estudando e testando novas tecnologias. Sou apaixonado por música, tecnologia e por me desafiar. 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Estácio.
+Atualmente sou Analista Desenvolvedor.
 
 ---
 
